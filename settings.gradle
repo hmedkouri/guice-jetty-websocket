@@ -1,1 +1,4 @@
-rootProject.name = 'java-websocket'
+rootProject.name = 'acuo-test'
+include 'chat-app'
+include 'devops'
+

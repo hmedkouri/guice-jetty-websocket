@@ -1,6 +1,7 @@
-package com.baeldung.model;
+package com.acuo.experimental.basic.model;
 
 public class Message {
+
     private String from;
     private String to;
     private String content;
